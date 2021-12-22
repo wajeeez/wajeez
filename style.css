@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-color: black;
+    color: #ffffff;
+}
+
+
+header img{
+    padding-top: 2rem;
+    height: 12rem;
+border-radius: 50%;
+
+}
+
+
+
+.main_wrapper .hd{
+    color: rgb(245, 13, 141);
+}
+.main_wrapper h2{
+    color: #47f00a
+}
+
+
+.main_wrapper p {
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main_data img{
+    height: 7rem;
+    border-radius: 25%;
+}
+
+
+.footer i{
+
+    height: 25px;
+    margin-bottom: 0;
+    padding: 0;
+    color: red;
+  
+}
+.footer p{
+    padding-bottom: 4rem;
+}
